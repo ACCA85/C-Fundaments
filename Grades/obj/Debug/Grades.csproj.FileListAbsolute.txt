@@ -4,3 +4,9 @@ D:\Visual Studio\C# Fundamentals with VisualStudio\Classes and Objects\ConsoleAp
 D:\Visual Studio\C# Fundamentals with VisualStudio\Classes and Objects\ConsoleApp1\obj\Debug\Grades.csprojResolveAssemblyReference.cache
 D:\Visual Studio\C# Fundamentals with VisualStudio\Classes and Objects\ConsoleApp1\obj\Debug\Grades.exe
 D:\Visual Studio\C# Fundamentals with VisualStudio\Classes and Objects\ConsoleApp1\obj\Debug\Grades.pdb
+C:\Users\alexa\Desktop\GradeBook\Grades\bin\Debug\Grades.exe.config
+C:\Users\alexa\Desktop\GradeBook\Grades\bin\Debug\Grades.exe
+C:\Users\alexa\Desktop\GradeBook\Grades\bin\Debug\Grades.pdb
+C:\Users\alexa\Desktop\GradeBook\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Users\alexa\Desktop\GradeBook\Grades\obj\Debug\Grades.exe
+C:\Users\alexa\Desktop\GradeBook\Grades\obj\Debug\Grades.pdb
